@@ -4,7 +4,7 @@ Hi 👋 My name is Santiago Poveda
 Web developer
 -------------
 
-I started my coding journey by learning HTML, where I got my first taste of web development. From there, I dived into Java and gained a solid foundation in programming logic. As I progressed, I ventured into the front-end technologies that power web applications, including HTML, CSS, JavaScript, and Stylus. Recently, I've completed my mastery of the commonly used back-end languages like Node.js, JavaScript, Jest, and TypeScript. This has enabled me to build robust and efficient server-side applications.
+I started my coding journey by learning HTML, where I got my first taste of web development. From there, I dived into Java and gained a solid foundation in programming logic. As I progressed, I ventured into the front-end technologies that power web applications, including HTML, CSS, JavaScript, and Stylus. Recently, I've completed my mastery of the commonly used back-end languages like Node.js, JavaScript, Jest, and TypeScript. This has enabled me to efficient server-side applications.
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [santipoveda53@hotmail.com](mailto:santipoveda53@hotmail.com)
