@@ -9,7 +9,7 @@ I started my coding journey by learning HTML, where I got my first taste of web 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [santipoveda53@hotmail.com](mailto:santipoveda53@hotmail.com)
 * 🧠  I'm learning React.js
-* 🤝  I'm open to collaborating on Blockchain projects and Fintech projects
+* 🤝  I'm open currently looking for a Junior Dev Job
 * ![](https://komarev.com/ghpvc/?username=your-github-Ssantiago8&color=green)
 ### Skills
 
